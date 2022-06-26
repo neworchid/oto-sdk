@@ -1,0 +1,22 @@
+{
+  "name": "oto-sdk",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+  "author": "neworchid",
+  "license": "ISC",
+  "description": "oto sdk",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/neworchid/oto-sdk.git"
+  },
+  "keywords": [
+    "oto"
+  ],
+  "bugs": {
+    "url": "https://github.com/neworchid/oto-sdk/issues"
+  },
+  "homepage": "https://github.com/neworchid/oto-sdk#readme"
+}
